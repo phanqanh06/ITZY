@@ -1,0 +1,72 @@
+body {
+  background-image: url(https://i2.wp.com/kpop.pmkcenter.com/wp-content/uploads/2021/09/ITZY-Official-ITZY-CRAZY-IN-LOVE-Album-Spoiler-WildMelody.jpg?fit=1024%2C576&ssl=1);
+  background-size: cover;
+  background-attachment: fixed;
+  padding-left: 100px;
+  padding-top: 60px;  
+}
+
+.main {
+  background-color: white;
+  height: 190px;
+  width: 470px;
+  padding: 5px;
+  text-align: justify;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.mainText {
+  text-align: justify;
+  text-align: center;
+}
+
+.logo {
+   float: right;
+   margin: 10px;
+}
+
+.mainText {
+  background-color: white;
+  height: 100px;
+  width: 450px;
+  padding: 5px;
+  text-align: justify;
+}
+
+.mainVideo {
+  margin: 50px;
+}
+
+a {
+  color: black;
+}
+
+.button {
+  width: 220px;
+  height: 170px;
+  background-color: #f09089;
+  
+  transition: all 0.2s linear;
+}
+
+.button:hover {
+  width: 270px;
+  background-color: #690709;
+}
+
+h3 {
+   padding: 5px;
+   text-align: center;
+}
+
+.link {
+  color: #f09089;
+}
+
+.photo {
+  margin: 50px;
+}
